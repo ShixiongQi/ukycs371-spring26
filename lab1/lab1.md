@@ -1,6 +1,6 @@
 # CloudLab Lab: Wireshark + NGINX — From “Client–Server” to Packets
 
-## 0) What you will do (one paragraph)
+## 0) What you will do
 
 You will run an **NGINX web server** on a **single CloudLab node** and use your **laptop as the client**. While sending **low-rate** HTTP requests from your laptop to the server, you will use **Wireshark** on your laptop to capture and analyze the packets. Your goal is to connect what you see in Wireshark to the lecture concepts: **client–server**, **sockets**, **IP+port addressing**, **HTTP message format (syntax/semantics)**, and **TCP reliable transport**.
 
